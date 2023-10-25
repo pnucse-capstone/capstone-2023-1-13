@@ -1,0 +1,5 @@
+uvicorn == 0.23.2
+fastapi == 0.103.0
+ultralytics == 8.0.195
+dill == 0.3.7
+python-multipart == 0.0.6

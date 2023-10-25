@@ -1,0 +1,12 @@
+building:
+  - code: b107
+    name: Building A
+    info: This is Building A
+    latitude: 37.12345
+    longitude: -122.54321
+
+  - code: b108
+    name: Building B
+    info: This is Building B
+    latitude: 37.54321
+    longitude: -122.12345
