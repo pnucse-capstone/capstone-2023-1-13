@@ -13,8 +13,7 @@
 ![구성도](https://github.com/pnucse-capstone/Capstone-Template-2023/assets/81746373/7083aa20-cdca-4296-ac06-34c465f8c107)
 
 ## 4. 소개 및 시연 영상
-<img src="https://github.com/pnucse-capstone/Capstone-Template-2023/assets/81746373/7fabef03-a7fe-47c7-b547-7ea092831c2d">
-[시연영상]
+[![pnutour시연영상](https://img.youtube.com/vi/hbNgTaMfX-0/0.jpg)](https://www.youtube.com/watch?v=hbNgTaMfX-0)
 
 ## 5. 사용법
 ### 5.1 간단 사용법
